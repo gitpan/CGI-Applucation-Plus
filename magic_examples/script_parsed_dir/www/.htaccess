@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule	^([^.]+)\.html$		/lib/mwa.pl?rm=$1
+
+ 
